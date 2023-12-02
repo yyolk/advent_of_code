@@ -31,7 +31,6 @@ def _parse_games(sinput: str) -> dict[int, list[Counter]]:
 
 
 def part1(sinput: str, bag_count: Counter) -> int:
-    """Part 1"""
     parsed_games = _parse_games(sinput)
     total = 0
     valid_game_numbers = []
