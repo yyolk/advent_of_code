@@ -38,7 +38,7 @@ def part1(sinput: str, bag_count: Counter) -> int:
     for game_number, rounds in parsed_games.items():
         valid_rounds = []
         for round_ in rounds:
-            # If game is a sub-multiset of the bag_count
+            # If round_ is a sub-multiset of the bag_count, it was valid.
             if round_ <= bag_count:
                 valid_rounds.append(True)
             else:
