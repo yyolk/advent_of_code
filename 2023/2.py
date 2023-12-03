@@ -1,3 +1,4 @@
+from collections import Counter
 from functools import reduce
 
 
@@ -33,7 +34,7 @@ def _parse_games(sinput: str) -> dict[int, list[Counter]]:
 def part1(sinput: str, bag_count: Counter) -> int:
     parsed_games = _parse_games(sinput)
     total = 0
-    valid_game_numbers = []
+    # valid_game_numbers = []
     for game_number, rounds in parsed_games.items():
         valid_rounds = []
         for round_ in rounds:
@@ -46,7 +47,7 @@ def part1(sinput: str, bag_count: Counter) -> int:
         if all(valid_rounds):
             # Our total is an ongoing sum of the valid game numbers
             total += game_number
-            valid_game_numbers.append(game_number)
+            # valid_game_numbers.append(game_number)
     return total
 
 
