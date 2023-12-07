@@ -69,7 +69,7 @@ for year in matching_directories:
         if idx in matching_files:
             path_ = matching_files[idx]
             # Add code emoji qualifier.
-            el.string = el.string + "🐍"
+            el.string = el.string + " 🐍"
             # Link to code.
             el.string.wrap(soup.new_tag("a", href=str(path_)))
             # Create puzzle_input link (eg, "<day>.txt").
