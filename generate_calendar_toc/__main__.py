@@ -73,7 +73,7 @@ for year in matching_directories:
             # Link to code.
             el.string.wrap(soup.new_tag("a", href=str(path_)))
             # Create puzzle_input link (eg, "<day>.txt").
-            puzzle_input_el = soup.new_tag("a", href=f"{path_.stem}.txt")
+            puzzle_input_el = soup.new_tag("a", href=f"{path_.parent}/{path_.stem}.txt")
             # Puzzle input emoji qualifier.
             puzzle_input_el.string = "🗒"
             el.append(soup.new_tag("br"))
