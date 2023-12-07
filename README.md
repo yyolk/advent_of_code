@@ -46,14 +46,18 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
   <td class="noday">
   </td>
   <td class="fri">
-   1🐍
+   <a href="2023/1.py">
+    1🐍
+   </a>
    <br/>
    <a href="1.txt">
     🗒
    </a>
   </td>
   <td class="sat">
-   2🐍
+   <a href="2023/2.py">
+    2🐍
+   </a>
    <br/>
    <a href="2.txt">
     🗒
@@ -62,28 +66,36 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
  </tr>
  <tr>
   <td class="sun">
-   3🐍
+   <a href="2023/3.py">
+    3🐍
+   </a>
    <br/>
    <a href="3.txt">
     🗒
    </a>
   </td>
   <td class="mon">
-   4🐍
+   <a href="2023/4.py">
+    4🐍
+   </a>
    <br/>
    <a href="4.txt">
     🗒
    </a>
   </td>
   <td class="tue">
-   5🐍
+   <a href="2023/5.py">
+    5🐍
+   </a>
    <br/>
    <a href="5.txt">
     🗒
    </a>
   </td>
   <td class="wed">
-   6🐍
+   <a href="2023/6.py">
+    6🐍
+   </a>
    <br/>
    <a href="6.txt">
     🗒
