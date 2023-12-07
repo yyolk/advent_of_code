@@ -68,11 +68,13 @@ for year in matching_directories:
         # Does this day have a file to match?
         if idx in matching_files:
             path_ = matching_files[idx]
-            el.string.wrap(soup.new_tag("a", href=str(path_)))
-            # Add code and input emoji qualifiers.
+            # Add code emoji qualifier.
             el.string = el.string + "🐍"
+            # Link to code.
+            el.string.wrap(soup.new_tag("a", href=str(path_)))
             # Create puzzle_input link (eg, "<day>.txt").
             puzzle_input_el = soup.new_tag("a", href=f"{path_.stem}.txt")
+            # Puzzle input emoji qualifier.
             puzzle_input_el.string = "🗒"
             el.append(soup.new_tag("br"))
             el.append(puzzle_input_el)
