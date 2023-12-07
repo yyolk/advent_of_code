@@ -50,7 +50,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
     1 🐍
    </a>
    <br/>
-   <a href="1.txt">
+   <a href="2023/1.txt">
     🗒
    </a>
   </td>
@@ -59,7 +59,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
     2 🐍
    </a>
    <br/>
-   <a href="2.txt">
+   <a href="2023/2.txt">
     🗒
    </a>
   </td>
@@ -70,7 +70,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
     3 🐍
    </a>
    <br/>
-   <a href="3.txt">
+   <a href="2023/3.txt">
     🗒
    </a>
   </td>
@@ -79,7 +79,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
     4 🐍
    </a>
    <br/>
-   <a href="4.txt">
+   <a href="2023/4.txt">
     🗒
    </a>
   </td>
@@ -88,7 +88,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
     5 🐍
    </a>
    <br/>
-   <a href="5.txt">
+   <a href="2023/5.txt">
     🗒
    </a>
   </td>
@@ -97,7 +97,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
     6 🐍
    </a>
    <br/>
-   <a href="6.txt">
+   <a href="2023/6.txt">
     🗒
    </a>
   </td>
