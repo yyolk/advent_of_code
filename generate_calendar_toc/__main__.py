@@ -1,12 +1,12 @@
 """
+WIP and repurposed from https://github.com/yyolk/leetcode_dailies/blob/7ab1429b952a8f10db9bdc5643201f5a9d9e7f2d/generate_calendar_toc/__main__.py
+
 Generate a table of contents per solution directory.
 
 The TOC in this case is a calendar with hyperlinked days.
 
 This also serves as a way to track which days weren't completed,
 as it will not link to a file that doesn't exist for the given day.
-
-Repurposed from https://github.com/yyolk/leetcode_dailies/blob/7ab1429b952a8f10db9bdc5643201f5a9d9e7f2d/generate_calendar_toc/__main__.py
 """
 import calendar
 import os
@@ -69,6 +69,13 @@ for year in matching_directories:
         if idx in matching_files:
             path_ = matching_files[idx]
             el.string.wrap(soup.new_tag("a", href=str(path_)))
+            # Add code and input emoji qualifiers.
+            el.string = el.string + "🐍"
+            # Create puzzle_input link (eg, "<day>.txt").
+            puzzle_input_el = soup.new_tag("a", href=f"{path_.stem}.txt")
+            puzzle_input_el.string = "🗒"
+            el.append(soup.new_tag("br"))
+            el.append(puzzle_input_el)
     # Set the align attribute to center, which works on markdown rendering for the <table />
     soup.table["align"] = "center"
     # The only content in the file will be the output of the HTMLCalendar
