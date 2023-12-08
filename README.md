@@ -102,7 +102,13 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    </a>
   </td>
   <td class="thu">
-   7
+   <a href="2023/7.py">
+    7 🐍
+   </a>
+   <br/>
+   <a href="2023/7.txt">
+    🗒
+   </a>
   </td>
   <td class="fri">
    8
