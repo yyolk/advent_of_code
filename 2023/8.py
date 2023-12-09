@@ -13,7 +13,7 @@ class Waypoint(NamedTuple):
 def parse_input(serialized_input: str) -> (tuple["*str"], dict[str, Waypoint]):
     """Parse the serialized directions."""
     # Unpack the first line, skip the second, and set lines to the rest.
-    instructive_direction, _, *lines = serialized_input.splitlines()[0:]
+    instructive_direction, _, *lines = serialized_input.splitlines()
     result_map = {}
     for line in lines:
         key, value = line.split("=")
