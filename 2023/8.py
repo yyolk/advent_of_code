@@ -1,4 +1,3 @@
-from collections import Counter
 from typing import NamedTuple
 from math import lcm
 
@@ -10,7 +9,7 @@ class Waypoint(NamedTuple):
     R: str
 
 
-def parse_input(serialized_input: str) -> (tuple["*str"], dict[str, Waypoint]):
+def parse_input(serialized_input: str) -> (tuple[*str], dict[str, Waypoint]):
     """Parse the serialized directions."""
     # Unpack the first line, skip the second, and set lines to the rest.
     instructive_direction, _, *lines = serialized_input.splitlines()
