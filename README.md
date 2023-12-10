@@ -120,7 +120,13 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    </a>
   </td>
   <td class="sat">
-   9
+   <a href="2023/9.py">
+    9 🐍
+   </a>
+   <br/>
+   <a href="2023/9.txt">
+    🗒
+   </a>
   </td>
  </tr>
  <tr>
