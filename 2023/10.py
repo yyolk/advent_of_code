@@ -85,11 +85,11 @@ def find_path(starts: set[Edge], edges: dict[Node, set[Edge]]) -> list[Edge]:
     for start in starts:
         visited_edges: list[Edge] = list()
         visited_nodes: set[Node] = set()
-        current: CurrentEdge = CurrentEdge(start, edges, visited_nodes)
-        while next_edge := next(current):
+        current_edge = CurrentEdge(start, edges, visited_nodes)
+        while next_edge := next(current_edge):
             visited_edges.append(next_edge)
             visited_nodes.add(next_edge.node)
-            current = CurrentEdge(next_edge, edges, visited_nodes)
+            current_edge = CurrentEdge(next_edge, edges, visited_nodes)
 
         if sum(1 if s.node in visited_nodes else 0 for s in starts) == 2:
             return visited_edges
@@ -100,7 +100,7 @@ def farthest_distance(starts: set[Edge], edges: dict[Node, set[Edge]]) -> int:
     return len(find_path(starts, edges)) // 2
 
 
-def flood(starts: set[Edge], edges: dict[Node, set[Edge]]):
+def flood(starts: set[Edge], edges: dict[Node, set[Edge]]) -> int:
     """Part 2"""
     path: list[Edge] = find_path(starts, edges)
     visited: set[Node] = set()
