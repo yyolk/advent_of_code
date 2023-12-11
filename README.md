@@ -140,7 +140,13 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    </a>
   </td>
   <td class="mon">
-   11
+   <a href="2023/11.py">
+    11 🐍
+   </a>
+   <br/>
+   <a href="2023/11.txt">
+    🗒
+   </a>
   </td>
   <td class="tue">
    12
