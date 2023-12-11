@@ -38,23 +38,26 @@ def parse_cosmos(
     return galaxies, result
 
 
-def create_cosmos_drawing(galaxies: list[tuple[int, int]], expansion: int = 2) -> str:
+def create_cosmos_drawing(galaxies: list[tuple[int, int]]) -> str:
     """Draw the expanded cosmos given all the galaxies locations.
 
-    For comparing the prompt example into the expanded example, but works on any input.
+    For comparing the prompt example into the expanded example.
+
+    Note:
+        Will perform very badly against large inputs like the complete puzzle.
+        It's not useful for the puzzle input, only the example, in comparing logic.
 
     Args:
         galaxies: A list of x,y coordinates of all the galaxies (in their expanded position).
-        expansion: The rate of the expansion for filling in the empty space.
 
     Returns:
-        A string that represents the cosmos as a drawing of "." for empty space and "#"
-        for space occupied by a galaxy.
+        A string that represents the cosmos as a drawing of "." for empty space
+        and "#" for space occupied by a galaxy.
     """
     lines = []
-    for y in range(max(galaxies, key=lambda g: g[1])[1] + (expansion - 1)):
+    for y in range(max(galaxies, key=lambda g: g[1])[1] + 1):
         line = ""
-        for x in range(max(galaxies, key=lambda g: g[0])[0] + (expansion - 1)):
+        for x in range(max(galaxies, key=lambda g: g[0])[0] + 1):
             if (x, y) in galaxies:
                 line += "#"
             else:
