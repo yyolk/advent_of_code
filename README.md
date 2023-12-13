@@ -149,7 +149,13 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    </a>
   </td>
   <td class="tue">
-   12
+   <a href="2023/12.py">
+    12 🐍
+   </a>
+   <br/>
+   <a href="2023/12.txt">
+    🗒
+   </a>
   </td>
   <td class="wed">
    13
