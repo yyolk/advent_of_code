@@ -34,14 +34,14 @@ def count_possibilities(springs: str, groups: list[int]) -> int:
     return sum(count for (_, end), count in counts.items() if "#" not in springs[end:])
 
 
-def parse_spring_field_1(serialized_input: str) -> (str, list[int]):
+def parse_spring_field_1(serialized_input: str) -> list[tuple[str, list[int]]]:
     return [
         (springs, list(map(int, groups.split(","))))
         for springs, groups in [line.split() for line in serialized_input.splitlines()]
     ]
 
 
-def parse_spring_field_2(serialized_input: str) -> (str, list[int]):
+def parse_spring_field_2(serialized_input: str) -> list[tuple[str, list[int]]]:
     return [
         ("?".join(springs for _ in range(5)), groups * 5)
         for springs, groups in parse_spring_field_1(serialized_input)
