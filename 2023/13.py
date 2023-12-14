@@ -13,7 +13,7 @@ def deserialize_notes(serialized_notes: str) -> list[np.ndarray]:
         A list of numpy arrays representing all patterns from the notes.
     """
 
-    def parse_pattern(pattern: str):
+    def parse_pattern(pattern: str) -> np.ndarray:
         """Inner function for converting "#" and "." into a numpy.ndarray.
 
         Args:
