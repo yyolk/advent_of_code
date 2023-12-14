@@ -30,11 +30,26 @@ def deserialize_notes(serialized_notes: str) -> list[np.ndarray]:
 def score_pattern(pattern: np.ndarray, diff: int = 0) -> int:
     """The primary method for finding our solution.
 
+    After flipping vertically or horizontally a XOR of both sides of the fold that are
+    identical will result in 0, the default target diff to find.
+
+    Changing the target diff will find the fold with diff number of differences.
+
+    It will find the first row that has diff number of differences. If none are found
+    it will then scan columns.
+
+    The puzzle input will always have a solution.
+
     Args:
         pattern: The deserialized pattern to score.
+        diff: The number of elements that should be different in the comparison (XOR).
 
     Returns:
-        The score for the pattern.
+        The score for the pattern, in accordance to the scoring rules.
+
+    Raises:
+        ValueError: When there's no fold to be found in the pattern equal to the target
+                    diff number of differences.
     """
     # Get the dimensions (height and width) of the input pattern.
     height, width = pattern.shape
@@ -54,6 +69,10 @@ def score_pattern(pattern: np.ndarray, diff: int = 0) -> int:
         if (np.flipud(pattern[i - m : i, :]) ^ pattern[i : i + m, :]).sum() == diff:
             # Count rows above and multiply it by 100.
             return i * 100
+
+    raise ValueError(
+        f"This pattern can not be scored with the diff threshold of {diff}."
+    )
 
 
 def part_1(serialized_notes: str) -> int:
