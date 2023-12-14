@@ -35,8 +35,8 @@ def score_pattern(pattern: np.ndarray, diff: int = 0) -> int:
 
     Changing the target diff will find the fold with diff number of differences.
 
-    It will find the first row that has diff number of differences. If none are found
-    it will then scan columns.
+    It will find the first column that has diff number of differences. If none are
+    found it will then scan rows.
 
     The puzzle input will always have a solution.
 
