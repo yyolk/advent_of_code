@@ -176,7 +176,13 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    </a>
   </td>
   <td class="fri">
-   15
+   <a href="2023/15.py">
+    15 🐍
+   </a>
+   <br/>
+   <a href="2023/15.txt">
+    🗒
+   </a>
   </td>
   <td class="sat">
    16
