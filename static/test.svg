@@ -6,7 +6,6 @@
     font-size="300%"
     textLength="150%"
     dominant-baseline="central"
-    text-rendering="geometricPrecision"
   >
     🟰
   </text>
