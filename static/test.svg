@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    font-size="300%"
+    textLength="150%"
+    dominant-baseline="central"
+  >
+    🔲
+  </text>
+</svg>
