@@ -49,12 +49,12 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
         <th colspan="2">1</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/emoji.svg"</kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"</kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
         </tr>
       </table>
 <!--    <a href="2023/1.py">
