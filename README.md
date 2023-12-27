@@ -3,7 +3,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
 
 
 <!-- START_TOC -->
-
+ 
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" class="month" width="100%">
  <tr>
