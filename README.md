@@ -53,8 +53,8 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
+         <td align="center"><a href="2023/2.txt"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
+          <td align="center"><a href="2023/2.py"><kbd> <img width="19" src="static/snake.svg"></kbd></a></td>
         </tr>
       </table>
 <!--    <a href="2023/1.py">
