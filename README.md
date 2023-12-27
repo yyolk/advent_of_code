@@ -49,7 +49,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
         <th colspan="2">1</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"</kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"</kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -72,7 +72,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">1</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -87,7 +87,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">17</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -100,7 +100,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">16</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -113,7 +113,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">15</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -126,7 +126,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">14</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -139,7 +139,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">13</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -152,7 +152,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">12</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
@@ -165,7 +165,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
        <table>
                 <th colspan="2">11</th>
         <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="40"></kbd></a></td>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg" width="30"></kbd></a></td>
         </tr>
         <tr>
 <!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
