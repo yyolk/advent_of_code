@@ -5,7 +5,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
 <!-- START_TOC -->
 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="month">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="month" width="100%">
  <tr>
   <th class="month" colspan="7">
    December 2023
@@ -46,87 +46,133 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
   <td class="noday">
   </td>
   <td class="fri">
-   <a href="2023/1.py">
-    1 🐍
+       <table>
+        <th colspan="2">1</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
+<!--    <a href="2023/1.py">
+    1 🪧
    </a>
    <br/>
    <a href="2023/1.txt">
-    🗒
+    🐍
    </a>
+   <a href="2023/1.txt">
+    🎫
+   </a> -->
   </td>
   <td class="sat">
-   <a href="2023/2.py">
-    2 🐍
-   </a>
-   <br/>
-   <a href="2023/2.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">1</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
  </tr>
  <tr>
   <td class="sun">
-   <a href="2023/3.py">
-    3 🐍
-   </a>
-   <br/>
-   <a href="2023/3.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">17</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
   <td class="mon">
-   <a href="2023/4.py">
-    4 🐍
-   </a>
-   <br/>
-   <a href="2023/4.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">16</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
   <td class="tue">
-   <a href="2023/5.py">
-    5 🐍
-   </a>
-   <br/>
-   <a href="2023/5.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">15</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
   <td class="wed">
-   <a href="2023/6.py">
-    6 🐍
-   </a>
-   <br/>
-   <a href="2023/6.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">14</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
   <td class="thu">
-   <a href="2023/7.py">
-    7 🐍
-   </a>
-   <br/>
-   <a href="2023/7.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">13</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
   <td class="fri">
-   <a href="2023/8.py">
-    8 🐍
-   </a>
-   <br/>
-   <a href="2023/8.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">12</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
   <td class="sat">
-   <a href="2023/9.py">
-    9 🐍
-   </a>
-   <br/>
-   <a href="2023/9.txt">
-    🗒
-   </a>
+       <table>
+                <th colspan="2">11</th>
+        <tr>
+          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="https://img.shields.io/badge/%F0%9F%AA%A7-rgba(255,255,255,0)?style=flat-square" width="40"></kbd></a></td>
+        </tr>
+        <tr>
+<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
+         <td align="center"><a href="2023/2.py"><kbd> <img src="https://img.shields.io/badge/%F0%9F%90%8D-rgba(255,255,255,0)?style=flat-square" width="19"> </kbd></a></td>
+          <td align="center" href="https://google.com"><kbd> <img width="19" src="https://img.shields.io/badge/%F0%9F%8E%AB-rgba(255,255,255,0)?style=flat-square"></kbd></td>
+        </tr>
+      </table>
   </td>
  </tr>
  <tr>
@@ -199,7 +245,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    19
   </td>
   <td class="wed">
-   20
+   10
   </td>
   <td class="thu">
    21
@@ -231,7 +277,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    29
   </td>
   <td class="sat">
-   30
+   10
   </td>
  </tr>
  <tr>
