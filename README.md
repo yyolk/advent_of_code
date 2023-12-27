@@ -1,7 +1,7 @@
 # advent_of_code
 My Advent of Code solutions (est. 2023) - https://adventofcode.com/
 
-<a href="README.md"><sub><sup>🖥🗓👀 <em>Best viewed in file browser on desktop.</em></sup></sub></a>
+<div align="center"><a href="README.md"><sub><sup>🖥🗓👀 <em>Best viewed in file browser on desktop.</em></sup></sub></a></div>
 <!-- START_TOC -->
  
 
