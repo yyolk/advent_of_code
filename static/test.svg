@@ -1,4 +1,4 @@
-<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <text
     x="50%"
     y="50%"
@@ -6,7 +6,6 @@
     font-size="300%"
     textLength="150%"
     dominant-baseline="central"
-    text-rendering="geometricPrecision"
   >
     🟰
   </text>
