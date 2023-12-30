@@ -17,6 +17,8 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
+from .advent_calendar import AdventHTMLCalendar
+
 
 SOLUTIONS_DIR_PATTERN = re.compile(r"\d{4}")
 FILE_PATTERN = re.compile(r"\d{1,}.py")
@@ -52,7 +54,7 @@ for dir_ in matching_directories:
                 matching_files[extracted_date] = file_
 
 
-cal = calendar.HTMLCalendar(calendar.SUNDAY)
+cal = AdventHTMLCalendar(calendar.FRIDAY)
 readme_text = README.read_text()
 readme_frontmatter = readme_text[: readme_text.find(TOC_INSERT_MARKER)].strip()
 readme_toc = []
