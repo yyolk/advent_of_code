@@ -2,10 +2,12 @@
 My Advent of Code solutions (est. 2023) - https://adventofcode.com/
 
 <div align="center"><a href="README.md"><sub><sup>🖥🗓👀 <em>Best viewed in file browser on desktop.</em></sup></sub></a></div>
-<!-- START_TOC -->
- 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="month" width="100%">
+
+<!-- START_TOC -->
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="month">
  <tr>
   <th class="month" colspan="7">
    December 2023
@@ -46,133 +48,87 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
   <td class="noday">
   </td>
   <td class="fri">
-       <table>
-        <th colspan="2">1</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"</kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.txt"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center"><a href="2023/2.py"><kbd> <img width="19" src="static/snake.svg"></kbd></a></td>
-        </tr>
-      </table>
-<!--    <a href="2023/1.py">
-    1 🪧
+   <a href="2023/1.py">
+    1 🐍
    </a>
    <br/>
    <a href="2023/1.txt">
-    🐍
+    🗒
    </a>
-   <a href="2023/1.txt">
-    🎫
-   </a> -->
   </td>
   <td class="sat">
-       <table>
-                <th colspan="2">1</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/2.py">
+    2 🐍
+   </a>
+   <br/>
+   <a href="2023/2.txt">
+    🗒
+   </a>
   </td>
  </tr>
  <tr>
   <td class="sun">
-       <table>
-                <th colspan="2">17</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/3.py">
+    3 🐍
+   </a>
+   <br/>
+   <a href="2023/3.txt">
+    🗒
+   </a>
   </td>
   <td class="mon">
-       <table>
-                <th colspan="2">16</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/4.py">
+    4 🐍
+   </a>
+   <br/>
+   <a href="2023/4.txt">
+    🗒
+   </a>
   </td>
   <td class="tue">
-       <table>
-                <th colspan="2">15</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/5.py">
+    5 🐍
+   </a>
+   <br/>
+   <a href="2023/5.txt">
+    🗒
+   </a>
   </td>
   <td class="wed">
-       <table>
-                <th colspan="2">14</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/6.py">
+    6 🐍
+   </a>
+   <br/>
+   <a href="2023/6.txt">
+    🗒
+   </a>
   </td>
   <td class="thu">
-       <table>
-                <th colspan="2">13</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/7.py">
+    7 🐍
+   </a>
+   <br/>
+   <a href="2023/7.txt">
+    🗒
+   </a>
   </td>
   <td class="fri">
-       <table>
-                <th colspan="2">12</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/8.py">
+    8 🐍
+   </a>
+   <br/>
+   <a href="2023/8.txt">
+    🗒
+   </a>
   </td>
   <td class="sat">
-       <table>
-                <th colspan="2">11</th>
-        <tr>
-          <td colspan="2" align="center"><a href="2023/2.txt"><kbd><img src="static/placard.svg"></kbd></a></td>
-        </tr>
-        <tr>
-<!--           <td><a href="2023/2.py"><kbd>🐍</kbd></a></td> -->
-         <td align="center"><a href="2023/2.py"><kbd> <img src="static/ticket.svg" width="19"> </kbd></a></td>
-          <td align="center" href="https://google.com"><kbd> <img width="19" src="static/snake.svg"></kbd></td>
-        </tr>
-      </table>
+   <a href="2023/9.py">
+    9 🐍
+   </a>
+   <br/>
+   <a href="2023/9.txt">
+    🗒
+   </a>
   </td>
  </tr>
  <tr>
@@ -245,7 +201,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    19
   </td>
   <td class="wed">
-   10
+   20
   </td>
   <td class="thu">
    21
@@ -277,7 +233,7 @@ My Advent of Code solutions (est. 2023) - https://adventofcode.com/
    29
   </td>
   <td class="sat">
-   10
+   30
   </td>
  </tr>
  <tr>
